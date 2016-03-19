@@ -6,7 +6,6 @@
 //
 
 #import "AFAFAcronymDataModel.h"
-#import "AFLfs.h"
 
 
 @implementation AFAFAcronymDataModel
