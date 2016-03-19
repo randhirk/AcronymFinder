@@ -1,7 +1,7 @@
 # AcronymFinder
  App to look up the meanings of acronyms/initialisms.
 
-Functional Acceptance Criteria 
+App functionality
 
 1. User can enter an acronym or initialism
 
